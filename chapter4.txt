@@ -1,1 +1,2 @@
 It is chapter 4 text file.
+I made changes to chapter 4.
